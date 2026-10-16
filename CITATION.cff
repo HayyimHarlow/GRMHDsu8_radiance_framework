@@ -1,0 +1,8 @@
+cff-version: 1.4.0
+title: "SU(8) Radiance Framework"
+authors:
+  - family-names: Harlow
+    given-names: Hayyim
+doi: https://doi.org/10.5281/zenodo.23290505
+version: "1.4.0"
+date-released: 2026-10-10

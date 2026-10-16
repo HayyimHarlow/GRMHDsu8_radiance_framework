@@ -1,0 +1,2 @@
+# Placeholder basis ordering file for SU(8 radiance framework
+# Replace with actual basis ordering when available.
