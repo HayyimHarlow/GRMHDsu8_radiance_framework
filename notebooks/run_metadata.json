@@ -1,0 +1,8 @@
+{
+    "num_synthetic_samples": 5000,
+    "num_parameters": 10,
+    "evpa_data": 4.822744439821687,
+    "helicity_data": 50,
+    "var_spectrum_length": 51,
+    "output_directory": "/content/su8_diagnostics"
+}
